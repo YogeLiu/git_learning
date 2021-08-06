@@ -4,4 +4,6 @@ import "golang.org/x/exp/errors/fmt"
 
 func main() {
 	fmt.Println("新建文件")
+	// 第二个人第一次新增行
+	fmt.Println("第二个人第一次新增行")
 }
