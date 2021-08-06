@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("第二个人第一次新增行")
 	fmt.Println("第一个人新建项目")
 	fmt.Println("dev")
+	fmt.Println("dev2")
 }
