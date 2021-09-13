@@ -14,4 +14,5 @@ func main() {
 
 func CancelIndex() {
 	fmt.Println("dev init")
+	fmt.Println("dev seconde")
 }
