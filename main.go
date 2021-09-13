@@ -11,3 +11,7 @@ func main() {
 	fmt.Println("dev")
 	fmt.Println("dev2")
 }
+
+func CancelIndex() {
+
+}
