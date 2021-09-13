@@ -13,5 +13,5 @@ func main() {
 }
 
 func CancelIndex() {
-
+	fmt.Println("dev init")
 }
